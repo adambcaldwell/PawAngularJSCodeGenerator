@@ -1,7 +1,8 @@
 /**
  * @author adam.caldwell
  *
- *
+ * Documentation for creating Paw code generator:
+ *  https://paw.cloud/docs/extensions/create-code-generator
  */
 
 var HttpCodeGenerator = function () {
